@@ -84,8 +84,8 @@ public class Titulo {
 
     @Override
     public String toString() {
-        return "nome='" + nome + '\'' +
-                ", anoDeLancamento=" + anoDeLancamento + ", " +
+        return "nome =" + nome +
+                ", anoDeLancamento = " + anoDeLancamento + ", " +
                 "duracao" + duracaoEmMinutos;
     }
 }
